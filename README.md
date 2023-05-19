@@ -46,7 +46,7 @@ python app.py
 
 If qualifying loans **exist** the user is prompted with the option to save the results to a CSV file as follows:
 
-![Loan Qualifier Prompts](Images/Image2.png)
+![Loan Qualifier Prompts](Images/image2.png)
 
 ---
 
