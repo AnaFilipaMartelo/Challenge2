@@ -1,0 +1,50 @@
+    8  git config --global user.name Ana Martelo
+    9  cd desktop
+   10  cd Fintech-Workspace
+   11  cd loan_qualifier_app
+   12  git clone https://github.com/AnaFilipaMartelo/Challenge2.git
+   13  cd ..
+   14  cd loan_qualifier_app
+   15  git status
+   16  cd Challenge2
+   17  git status
+   18  git add README.md
+   19  git status
+   20  git add Images
+   21  git status
+   22  git commit -m "Write README.md and create Images folder that contain the image used in README.md under the section "Usage""
+   23  git config --global user.email anafilipamartelo@gmail.com
+   24  git config --global user.name Ana Martelo
+   25  git commit -m "Write README.md and create Images folder that contain the image used in README.md under the section "Usage""
+   26  git push
+   27  git status
+   28  git add qualifier/utils/fileio.py
+   29  git status
+   30  git commit -m "create function save_csv to save the qualifying loans to a CSV file"
+   31  git push
+   32  git add app.py
+   33  git status
+   34  git commit -m "Create function save_qualifying_loans to prompt user to save qualifying loans to CSV file and to ask for output file path"
+   35  git push
+   36  git status
+   37  git add Images/Image3.png
+   38  git add Images
+   39  git status
+   40  git add README.md
+   41  git status
+   42  git commit -m "Update README.md with a description of new functionality and usage example with Image2 and Image3 on folder Images"
+   43  git push
+   44  history 50> terminal_history.txt
+   45  git status
+   46  git add terminal_history.txt
+   47  git status
+   48  git commit -m "Generate a text file of my command history (the 50 last commands)"
+   49  git push
+   50  git add Images/image2.png
+   51  git status
+   52  git status
+   53  git add README.md 
+   54  git status
+   55  git commit -m "Fixed spelling error in the image URL of third image in "Usage" scetion"
+   56  git push
+   57  history 50 > terminal_history.txt
